@@ -7,7 +7,8 @@
 
  The loss and accuracy plots are attached below along with the sample of predicted plant disease.
  
- ![image](https://github.com/vab77/CNN_Leaf_Classification/assets/98940219/3302f02c-9e1c-44eb-91d6-aab28f6bd578)
+ 
+![acc_loss](https://github.com/vab77/CNN_Leaf_Classification/assets/98940219/a63fa5b5-ce19-409b-8a96-538d5d242b5b)
 
 
  
